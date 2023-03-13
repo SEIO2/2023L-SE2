@@ -4,6 +4,7 @@
 4. Jaime Gimillo
 5. Rayan Hamed
 6. Hong Nachuan
-7. Hilal Qassem
-8. Mateusz Sudejko
-9. Lanxi Wen
+7. Nikodem Olszowy
+8. Hilal Qassem
+9. Mateusz Sudejko
+10. Lanxi Wen
