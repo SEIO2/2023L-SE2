@@ -1,7 +1,8 @@
 1. Mevin Biju
-2. Seita Fujiwara
-3. Rayan Hamed
-4. Mateusz Sudejko
+2. Liu Chang
+3. Seita Fujiwara
+4. Rayan Hamed
 5. Hong Nachuan
-6. Liu Chang
-7. Lanxi Wen
+6. Hilal Qassem
+7. Mateusz Sudejko
+8. Lanxi Wen
